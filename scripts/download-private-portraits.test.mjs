@@ -1,11 +1,17 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { mkdtempSync, readFileSync, readdirSync, unlinkSync, rmdirSync } from 'node:fs';
+import { mkdirSync, mkdtempSync, readFileSync, readdirSync, unlinkSync, rmdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { downloadPrivatePortraits, imageExtension, readLocalIndex } from './download-private-portraits.mjs';
 
 const directories = [];
 const PNG = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+/u0QAAAAASUVORK5CYII=', 'base64');
-function temp() { const directory = mkdtempSync(resolve('.runtime/portrait-download-test-')); directories.push(directory); return directory; }
+function temp() {
+  const parent = resolve('.runtime');
+  mkdirSync(parent, { recursive: true });
+  const directory = mkdtempSync(join(parent, 'portrait-download-test-'));
+  directories.push(directory);
+  return directory;
+}
 afterEach(() => { for (const dir of directories.splice(0)) { for (const name of readdirSync(dir)) unlinkSync(join(dir, name)); rmdirSync(dir); } vi.restoreAllMocks(); });
 const metadata = Buffer.from(JSON.stringify({ data: [{ character: { name: 'Uzumaki, Naruto', mal_id: 17, images: { jpg: { image_url: 'https://cdn.myanimelist.net/images/characters/1/100.png' } } } }] }));
 describe('Téléchargement réel des fichiers privés — réseau injecté dans les tests', () => {
