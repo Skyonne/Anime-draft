@@ -1,0 +1,34 @@
+{
+  "name": "naruto-stat-draft",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --configLoader runner",
+    "build": "npm run validate:portraits && tsc --noEmit && vite build --configLoader runner",
+    "preview": "vite preview --host 127.0.0.1 --configLoader runner",
+    "typecheck": "tsc --noEmit",
+    "validate:data": "node scripts/validate-characters.mjs && npm run validate:portraits",
+    "test": "vitest --configLoader runner",
+    "validate:portraits": "node scripts/portrait-tools.mjs",
+    "portraits:sync": "node scripts/portrait-tools.mjs --sync",
+    "portraits:download": "node scripts/download-private-portraits.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.4.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.0"
+  }
+}

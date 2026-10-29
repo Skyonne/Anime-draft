@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "naruto-uzumaki",
+    "name": "Naruto Uzumaki",
+    "image": "characters/naruto-uzumaki.svg",
+    "affiliation": "Konoha",
+    "version": "Mode Ermite des Six Chemins",
+    "evidence": "Guerre : clones, Rasenshuriken, chakra de Kurama.",
+    "stats": {
+      "strength": 96,
+      "speed": 98,
+      "ninjutsu": 98,
+      "taijutsu": 93,
+      "intelligence": 76,
+      "endurance": 100
+    }
+  },
+  {
+    "id": "sasuke-uchiha",
+    "name": "Sasuke Uchiha",
+    "image": "characters/sasuke-uchiha.svg",
+    "affiliation": "Konoha",
+    "version": "Rinnegan de la guerre",
+    "evidence": "Guerre : Amenotejikara, Susanoo, analyse du combat.",
+    "stats": {
+      "strength": 88,
+      "speed": 97,
+      "ninjutsu": 98,
+      "taijutsu": 91,
+      "intelligence": 92,
+      "endurance": 90
+    }
+  },
+  {
+    "id": "sakura-haruno",
+    "name": "Sakura Haruno",
+    "image": "characters/sakura-haruno.svg",
+    "affiliation": "Konoha",
+    "version": "Byakugō de la guerre",
+    "evidence": "Guerre : force concentrée, soins et régénération.",
+    "stats": {
+      "strength": 95,
+      "speed": 76,
+      "ninjutsu": 83,
+      "taijutsu": 81,
+      "intelligence": 85,
+      "endurance": 91
+    }
+  },
+  {
+    "id": "kakashi-hatake",
+    "name": "Kakashi Hatake",
+    "image": "characters/kakashi-hatake.svg",
+    "affiliation": "Konoha",
+    "version": "Double Mangekyō temporaire",
+    "evidence": "Kaguya : Kamui et Susanoo temporaires ; réserves limitées hors don d’Obito.",
+    "stats": {
+      "strength": 74,
+      "speed": 92,
+      "ninjutsu": 97,
+      "taijutsu": 87,
+      "intelligence": 96,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "might-guy",
+    "name": "Might Guy",
+    "image": "characters/might-guy.svg",
+    "affiliation": "Konoha",
+    "version": "Huitième Porte",
+    "evidence": "Madara : puissance martiale maximale, coût mortel des portes.",
+    "stats": {
+      "strength": 99,
+      "speed": 99,
+      "ninjutsu": 22,
+      "taijutsu": 100,
+      "intelligence": 68,
+      "endurance": 82
+    }
+  },
+  {
+    "id": "rock-lee",
+    "name": "Rock Lee",
+    "image": "characters/rock-lee.svg",
+    "affiliation": "Konoha",
+    "version": "Portes de la guerre",
+    "evidence": "Guerre : portes et entraînement martial, ninjutsu presque absent.",
+    "stats": {
+      "strength": 82,
+      "speed": 89,
+      "ninjutsu": 5,
+      "taijutsu": 92,
+      "intelligence": 59,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "neji-hyuga",
+    "name": "Neji Hyūga",
+    "image": "characters/neji-hyuga.svg",
+    "affiliation": "Konoha",
+    "version": "Jōnin de la guerre",
+    "evidence": "Jūken, rotation et vision du Byakugan.",
+    "stats": {
+      "strength": 63,
+      "speed": 78,
+      "ninjutsu": 68,
+      "taijutsu": 87,
+      "intelligence": 83,
+      "endurance": 65
+    }
+  },
+  {
+    "id": "tenten",
+    "name": "Tenten",
+    "image": "characters/tenten.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre, armes du Sage",
+    "evidence": "Armes scellées et Bashōsen, forte dépense de chakra.",
+    "stats": {
+      "strength": 43,
+      "speed": 61,
+      "ninjutsu": 62,
+      "taijutsu": 58,
+      "intelligence": 65,
+      "endurance": 45
+    }
+  },
+  {
+    "id": "shikamaru-nara",
+    "name": "Shikamaru Nara",
+    "image": "characters/shikamaru-nara.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Hidan puis guerre : pièges et manipulation des ombres.",
+    "stats": {
+      "strength": 36,
+      "speed": 56,
+      "ninjutsu": 76,
+      "taijutsu": 42,
+      "intelligence": 98,
+      "endurance": 57
+    }
+  },
+  {
+    "id": "choji-akimichi",
+    "name": "Chōji Akimichi",
+    "image": "characters/choji-akimichi.svg",
+    "affiliation": "Konoha",
+    "version": "Mode papillon sans pilules",
+    "evidence": "Guerre : gigantisme et contrôle du mode papillon.",
+    "stats": {
+      "strength": 91,
+      "speed": 57,
+      "ninjutsu": 73,
+      "taijutsu": 72,
+      "intelligence": 51,
+      "endurance": 85
+    }
+  },
+  {
+    "id": "ino-yamanaka",
+    "name": "Ino Yamanaka",
+    "image": "characters/ino-yamanaka.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Transfert mental et relais télépathique à grande échelle.",
+    "stats": {
+      "strength": 31,
+      "speed": 51,
+      "ninjutsu": 72,
+      "taijutsu": 36,
+      "intelligence": 79,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "hinata-hyuga",
+    "name": "Hinata Hyūga",
+    "image": "characters/hinata-hyuga.svg",
+    "affiliation": "Konoha",
+    "version": "Shippuden, poings des lions",
+    "evidence": "Pain et guerre : Jūken et poings des lions jumeaux.",
+    "stats": {
+      "strength": 53,
+      "speed": 65,
+      "ninjutsu": 61,
+      "taijutsu": 77,
+      "intelligence": 65,
+      "endurance": 62
+    }
+  },
+  {
+    "id": "kiba-inuzuka",
+    "name": "Kiba Inuzuka",
+    "image": "characters/kiba-inuzuka.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre avec Akamaru",
+    "evidence": "Transformations et attaques tournoyantes coordonnées.",
+    "stats": {
+      "strength": 64,
+      "speed": 76,
+      "ninjutsu": 60,
+      "taijutsu": 70,
+      "intelligence": 53,
+      "endurance": 65
+    }
+  },
+  {
+    "id": "shino-aburame",
+    "name": "Shino Aburame",
+    "image": "characters/shino-aburame.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Insectes drainant le chakra et analyse méthodique.",
+    "stats": {
+      "strength": 42,
+      "speed": 57,
+      "ninjutsu": 79,
+      "taijutsu": 46,
+      "intelligence": 86,
+      "endurance": 68
+    }
+  },
+  {
+    "id": "sai",
+    "name": "Sai",
+    "image": "characters/sai.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Dessins animés à l’encre, vol et scellement.",
+    "stats": {
+      "strength": 53,
+      "speed": 71,
+      "ninjutsu": 77,
+      "taijutsu": 67,
+      "intelligence": 81,
+      "endurance": 63
+    }
+  },
+  {
+    "id": "yamato",
+    "name": "Yamato",
+    "image": "characters/yamato.svg",
+    "affiliation": "Konoha",
+    "version": "Mokuton Shippuden",
+    "evidence": "Pont Tenchi : bois, contrôle de terrain et suppression du chakra.",
+    "stats": {
+      "strength": 66,
+      "speed": 69,
+      "ninjutsu": 82,
+      "taijutsu": 68,
+      "intelligence": 82,
+      "endurance": 77
+    }
+  },
+  {
+    "id": "asuma-sarutobi",
+    "name": "Asuma Sarutobi",
+    "image": "characters/asuma-sarutobi.svg",
+    "affiliation": "Konoha",
+    "version": "Avant sa mort",
+    "evidence": "Hidan : lames de chakra du vent et corps à corps.",
+    "stats": {
+      "strength": 72,
+      "speed": 73,
+      "ninjutsu": 70,
+      "taijutsu": 82,
+      "intelligence": 77,
+      "endurance": 65
+    }
+  },
+  {
+    "id": "kurenai-yuhi",
+    "name": "Kurenai Yūhi",
+    "image": "characters/kurenai-yuhi.svg",
+    "affiliation": "Konoha",
+    "version": "Jōnin Shippuden",
+    "evidence": "Itachi : spécialisation genjutsu, distincte du ninjutsu.",
+    "stats": {
+      "strength": 39,
+      "speed": 60,
+      "ninjutsu": 43,
+      "taijutsu": 52,
+      "intelligence": 76,
+      "endurance": 49
+    }
+  },
+  {
+    "id": "anko-mitarashi",
+    "name": "Anko Mitarashi",
+    "image": "characters/anko-mitarashi.svg",
+    "affiliation": "Konoha",
+    "version": "Shippuden",
+    "evidence": "Serpents, sceau maudit et techniques d’infiltration.",
+    "stats": {
+      "strength": 56,
+      "speed": 66,
+      "ninjutsu": 64,
+      "taijutsu": 65,
+      "intelligence": 70,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "shizune",
+    "name": "Shizune",
+    "image": "characters/shizune.svg",
+    "affiliation": "Konoha",
+    "version": "Ninja médecin",
+    "evidence": "Combat contre Kabuto : poison et ninjutsu médical.",
+    "stats": {
+      "strength": 39,
+      "speed": 61,
+      "ninjutsu": 70,
+      "taijutsu": 51,
+      "intelligence": 81,
+      "endurance": 54
+    }
+  },
+  {
+    "id": "iruka-umino",
+    "name": "Iruka Umino",
+    "image": "characters/iruka-umino.svg",
+    "affiliation": "Konoha",
+    "version": "Chūnin",
+    "evidence": "Mizuki : armes, substitution et protection de Naruto.",
+    "stats": {
+      "strength": 37,
+      "speed": 44,
+      "ninjutsu": 44,
+      "taijutsu": 42,
+      "intelligence": 65,
+      "endurance": 43
+    }
+  },
+  {
+    "id": "konohamaru-sarutobi",
+    "name": "Konohamaru Sarutobi",
+    "image": "characters/konohamaru-sarutobi.svg",
+    "affiliation": "Konoha",
+    "version": "Assaut de Pain",
+    "evidence": "Rasengan et clones contre un corps de Pain.",
+    "stats": {
+      "strength": 35,
+      "speed": 49,
+      "ninjutsu": 63,
+      "taijutsu": 42,
+      "intelligence": 61,
+      "endurance": 45
+    }
+  },
+  {
+    "id": "hiruzen-sarutobi",
+    "name": "Hiruzen Sarutobi",
+    "image": "characters/hiruzen-sarutobi.svg",
+    "affiliation": "Konoha",
+    "version": "Réanimation de la guerre",
+    "evidence": "Cinq natures de chakra, Enma et expérience tactique.",
+    "stats": {
+      "strength": 76,
+      "speed": 78,
+      "ninjutsu": 92,
+      "taijutsu": 81,
+      "intelligence": 93,
+      "endurance": 76
+    }
+  },
+  {
+    "id": "tsunade",
+    "name": "Tsunade",
+    "image": "characters/tsunade.svg",
+    "affiliation": "Konoha",
+    "version": "Byakugō contre Madara",
+    "evidence": "Cinq Kage : force, guérison et survie aux blessures massives.",
+    "stats": {
+      "strength": 96,
+      "speed": 73,
+      "ninjutsu": 84,
+      "taijutsu": 80,
+      "intelligence": 86,
+      "endurance": 94
+    }
+  },
+  {
+    "id": "jiraiya",
+    "name": "Jiraiya",
+    "image": "characters/jiraiya.svg",
+    "affiliation": "Konoha",
+    "version": "Mode Ermite imparfait",
+    "evidence": "Pain : invocations, crinière, huile et techniques du mode Ermite.",
+    "stats": {
+      "strength": 81,
+      "speed": 82,
+      "ninjutsu": 91,
+      "taijutsu": 83,
+      "intelligence": 88,
+      "endurance": 86
+    }
+  },
+  {
+    "id": "orochimaru",
+    "name": "Orochimaru",
+    "image": "characters/orochimaru.svg",
+    "affiliation": "Otogakure",
+    "version": "Corps de Zetsu, guerre",
+    "evidence": "Réanimations, serpents, régénération et recherche des techniques.",
+    "stats": {
+      "strength": 74,
+      "speed": 81,
+      "ninjutsu": 94,
+      "taijutsu": 78,
+      "intelligence": 95,
+      "endurance": 91
+    }
+  },
+  {
+    "id": "minato-namikaze",
+    "name": "Minato Namikaze",
+    "image": "characters/minato-namikaze.svg",
+    "affiliation": "Konoha",
+    "version": "Edo Tensei, chakra de Kurama",
+    "evidence": "Guerre : Hiraishin, barrières et moitié de Kurama.",
+    "stats": {
+      "strength": 78,
+      "speed": 99,
+      "ninjutsu": 92,
+      "taijutsu": 85,
+      "intelligence": 96,
+      "endurance": 88
+    }
+  },
+  {
+    "id": "hashirama-senju",
+    "name": "Hashirama Senju",
+    "image": "characters/hashirama-senju.svg",
+    "affiliation": "Konoha",
+    "version": "Mode Ermite",
+    "evidence": "Madara : Mokuton géant, guérison et réserves exceptionnelles.",
+    "stats": {
+      "strength": 95,
+      "speed": 88,
+      "ninjutsu": 99,
+      "taijutsu": 87,
+      "intelligence": 89,
+      "endurance": 99
+    }
+  },
+  {
+    "id": "tobirama-senju",
+    "name": "Tobirama Senju",
+    "image": "characters/tobirama-senju.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Hiraishin, Suiton et analyse des pouvoirs adverses.",
+    "stats": {
+      "strength": 80,
+      "speed": 95,
+      "ninjutsu": 93,
+      "taijutsu": 84,
+      "intelligence": 97,
+      "endurance": 86
+    }
+  },
+  {
+    "id": "danzo-shimura",
+    "name": "Danzō Shimura",
+    "image": "characters/danzo-shimura.svg",
+    "affiliation": "Konoha",
+    "version": "Combat contre Sasuke",
+    "evidence": "Fūton, Izanagi limité et bras de cellules de Hashirama.",
+    "stats": {
+      "strength": 64,
+      "speed": 70,
+      "ninjutsu": 83,
+      "taijutsu": 64,
+      "intelligence": 87,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "itachi-uchiha",
+    "name": "Itachi Uchiha",
+    "image": "characters/itachi-uchiha.svg",
+    "affiliation": "Akatsuki",
+    "version": "Edo Tensei",
+    "evidence": "Nagato et Kabuto : Amaterasu, Susanoo et analyse ; endurance corporelle finie évaluée.",
+    "stats": {
+      "strength": 61,
+      "speed": 88,
+      "ninjutsu": 92,
+      "taijutsu": 78,
+      "intelligence": 97,
+      "endurance": 67
+    }
+  },
+  {
+    "id": "kisame-hoshigaki",
+    "name": "Kisame Hoshigaki",
+    "image": "characters/kisame-hoshigaki.svg",
+    "affiliation": "Akatsuki",
+    "version": "Fusion avec Samehada",
+    "evidence": "Killer B : eau à grande échelle et absorption du chakra.",
+    "stats": {
+      "strength": 87,
+      "speed": 77,
+      "ninjutsu": 91,
+      "taijutsu": 80,
+      "intelligence": 78,
+      "endurance": 95
+    }
+  },
+  {
+    "id": "deidara",
+    "name": "Deidara",
+    "image": "characters/deidara.svg",
+    "affiliation": "Akatsuki",
+    "version": "Combat contre Sasuke",
+    "evidence": "Argile explosive, C4 et C0 sacrificiel.",
+    "stats": {
+      "strength": 48,
+      "speed": 73,
+      "ninjutsu": 86,
+      "taijutsu": 47,
+      "intelligence": 80,
+      "endurance": 68
+    }
+  },
+  {
+    "id": "sasori",
+    "name": "Sasori",
+    "image": "characters/sasori.svg",
+    "affiliation": "Akatsuki",
+    "version": "Corps marionnette",
+    "evidence": "Sakura et Chiyo : poisons, cent marionnettes et troisième Kazekage.",
+    "stats": {
+      "strength": 44,
+      "speed": 72,
+      "ninjutsu": 89,
+      "taijutsu": 49,
+      "intelligence": 89,
+      "endurance": 84
+    }
+  },
+  {
+    "id": "hidan",
+    "name": "Hidan",
+    "image": "characters/hidan.svg",
+    "affiliation": "Akatsuki",
+    "version": "Combat contre Asuma",
+    "evidence": "Rituel de malédiction et survie ; mise hors combat possible.",
+    "stats": {
+      "strength": 66,
+      "speed": 69,
+      "ninjutsu": 40,
+      "taijutsu": 73,
+      "intelligence": 43,
+      "endurance": 92
+    }
+  },
+  {
+    "id": "kakuzu",
+    "name": "Kakuzu",
+    "image": "characters/kakuzu.svg",
+    "affiliation": "Akatsuki",
+    "version": "Cinq cœurs",
+    "evidence": "Affrontement de Konoha : cinq natures et corps renforcé.",
+    "stats": {
+      "strength": 84,
+      "speed": 74,
+      "ninjutsu": 87,
+      "taijutsu": 75,
+      "intelligence": 81,
+      "endurance": 89
+    }
+  },
+  {
+    "id": "konan",
+    "name": "Konan",
+    "image": "characters/konan.svg",
+    "affiliation": "Amegakure",
+    "version": "Combat contre Obito",
+    "evidence": "Papier explosif ; préparation massive distinguée du pouvoir immédiat.",
+    "stats": {
+      "strength": 36,
+      "speed": 71,
+      "ninjutsu": 84,
+      "taijutsu": 43,
+      "intelligence": 87,
+      "endurance": 70
+    }
+  },
+  {
+    "id": "nagato",
+    "name": "Nagato",
+    "image": "characters/nagato.svg",
+    "affiliation": "Amegakure",
+    "version": "Rinnegan",
+    "evidence": "Pain et réanimation : six voies, invocations et Chibaku Tensei.",
+    "stats": {
+      "strength": 67,
+      "speed": 75,
+      "ninjutsu": 98,
+      "taijutsu": 58,
+      "intelligence": 91,
+      "endurance": 93
+    }
+  },
+  {
+    "id": "obito-uchiha",
+    "name": "Obito Uchiha",
+    "image": "characters/obito-uchiha.svg",
+    "affiliation": "Akatsuki",
+    "version": "Jinchūriki de Jūbi",
+    "evidence": "Guerre : Six Chemins ; Kamui intangible indisponible dans cette forme.",
+    "stats": {
+      "strength": 95,
+      "speed": 96,
+      "ninjutsu": 99,
+      "taijutsu": 87,
+      "intelligence": 91,
+      "endurance": 98
+    }
+  },
+  {
+    "id": "madara-uchiha",
+    "name": "Madara Uchiha",
+    "image": "characters/madara-uchiha.svg",
+    "affiliation": "Akatsuki",
+    "version": "Jinchūriki de Jūbi, deux Rinnegan",
+    "evidence": "Guerre : Limbo, régénération et techniques des Six Chemins.",
+    "stats": {
+      "strength": 98,
+      "speed": 97,
+      "ninjutsu": 99,
+      "taijutsu": 96,
+      "intelligence": 96,
+      "endurance": 99
+    }
+  },
+  {
+    "id": "zetsu-noir",
+    "name": "Zetsu noir",
+    "image": "characters/zetsu-noir.svg",
+    "affiliation": "Akatsuki",
+    "version": "Guerre",
+    "evidence": "Infiltration, fusion et manipulation ; embuscade sur Madara non assimilée à la force brute.",
+    "stats": {
+      "strength": 28,
+      "speed": 52,
+      "ninjutsu": 61,
+      "taijutsu": 25,
+      "intelligence": 90,
+      "endurance": 73
+    }
+  },
+  {
+    "id": "zetsu-blanc",
+    "name": "Zetsu blanc",
+    "image": "characters/zetsu-blanc.svg",
+    "affiliation": "Akatsuki",
+    "version": "Clone combattant de la guerre",
+    "evidence": "Mimétisme, infiltration et absorption limitée.",
+    "stats": {
+      "strength": 38,
+      "speed": 47,
+      "ninjutsu": 58,
+      "taijutsu": 38,
+      "intelligence": 48,
+      "endurance": 59
+    }
+  },
+  {
+    "id": "gaara",
+    "name": "Gaara",
+    "image": "characters/gaara.svg",
+    "affiliation": "Sunagakure",
+    "version": "Kazekage de la guerre",
+    "evidence": "Sable défensif, scellement et soutien aux Cinq Kage.",
+    "stats": {
+      "strength": 55,
+      "speed": 78,
+      "ninjutsu": 92,
+      "taijutsu": 44,
+      "intelligence": 88,
+      "endurance": 89
+    }
+  },
+  {
+    "id": "temari",
+    "name": "Temari",
+    "image": "characters/temari.svg",
+    "affiliation": "Sunagakure",
+    "version": "Guerre",
+    "evidence": "Fūton à l’éventail, portée et analyse tactique.",
+    "stats": {
+      "strength": 48,
+      "speed": 67,
+      "ninjutsu": 80,
+      "taijutsu": 51,
+      "intelligence": 83,
+      "endurance": 63
+    }
+  },
+  {
+    "id": "kankuro",
+    "name": "Kankurō",
+    "image": "characters/kankuro.svg",
+    "affiliation": "Sunagakure",
+    "version": "Guerre, marionnette Sasori",
+    "evidence": "Escouade d’embuscade : marionnettes, poison et capture.",
+    "stats": {
+      "strength": 43,
+      "speed": 62,
+      "ninjutsu": 78,
+      "taijutsu": 44,
+      "intelligence": 82,
+      "endurance": 59
+    }
+  },
+  {
+    "id": "chiyo",
+    "name": "Chiyo",
+    "image": "characters/chiyo.svg",
+    "affiliation": "Sunagakure",
+    "version": "Combat contre Sasori",
+    "evidence": "Dix marionnettes, antidotes et technique de transfert de vie.",
+    "stats": {
+      "strength": 43,
+      "speed": 68,
+      "ninjutsu": 85,
+      "taijutsu": 61,
+      "intelligence": 92,
+      "endurance": 65
+    }
+  },
+  {
+    "id": "rasa",
+    "name": "Rasa",
+    "image": "characters/rasa.svg",
+    "affiliation": "Sunagakure",
+    "version": "Edo Tensei",
+    "evidence": "Poudre d’or opposée au sable de Gaara.",
+    "stats": {
+      "strength": 60,
+      "speed": 69,
+      "ninjutsu": 85,
+      "taijutsu": 52,
+      "intelligence": 82,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "troisieme-kazekage",
+    "name": "Troisième Kazekage",
+    "image": "characters/troisieme-kazekage.svg",
+    "affiliation": "Sunagakure",
+    "version": "Capacités montrées via sa marionnette",
+    "evidence": "Sasori : limaille de fer ; évaluation indirecte, confiance moindre.",
+    "stats": {
+      "strength": 64,
+      "speed": 72,
+      "ninjutsu": 88,
+      "taijutsu": 60,
+      "intelligence": 79,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "baki",
+    "name": "Baki",
+    "image": "characters/baki.svg",
+    "affiliation": "Sunagakure",
+    "version": "Jōnin de Suna",
+    "evidence": "Combat contre Hayate : lame de vent.",
+    "stats": {
+      "strength": 57,
+      "speed": 66,
+      "ninjutsu": 70,
+      "taijutsu": 65,
+      "intelligence": 76,
+      "endurance": 60
+    }
+  },
+  {
+    "id": "pakura",
+    "name": "Pakura",
+    "image": "characters/pakura.svg",
+    "affiliation": "Sunagakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : orbes de Shakuton asséchant les adversaires.",
+    "stats": {
+      "strength": 59,
+      "speed": 73,
+      "ninjutsu": 83,
+      "taijutsu": 64,
+      "intelligence": 73,
+      "endurance": 68
+    }
+  },
+  {
+    "id": "maki",
+    "name": "Maki",
+    "image": "characters/maki.svg",
+    "affiliation": "Sunagakure",
+    "version": "Guerre",
+    "evidence": "Scellement au tissu dans l’unité d’embuscade.",
+    "stats": {
+      "strength": 32,
+      "speed": 50,
+      "ninjutsu": 62,
+      "taijutsu": 35,
+      "intelligence": 66,
+      "endurance": 48
+    }
+  },
+  {
+    "id": "killer-b",
+    "name": "Killer B",
+    "image": "characters/killer-b.svg",
+    "affiliation": "Kumogakure",
+    "version": "Coopération avec Gyūki",
+    "evidence": "Sasuke puis guerre : sept épées, bijūdama et maîtrise du démon.",
+    "stats": {
+      "strength": 91,
+      "speed": 90,
+      "ninjutsu": 89,
+      "taijutsu": 93,
+      "intelligence": 80,
+      "endurance": 97
+    }
+  },
+  {
+    "id": "a-quatrieme-raikage",
+    "name": "A, quatrième Raikage",
+    "image": "characters/a-quatrieme-raikage.svg",
+    "affiliation": "Kumogakure",
+    "version": "Armure Raiton",
+    "evidence": "Cinq Kage : vitesse physique, force et manteau de foudre.",
+    "stats": {
+      "strength": 94,
+      "speed": 96,
+      "ninjutsu": 77,
+      "taijutsu": 93,
+      "intelligence": 72,
+      "endurance": 91
+    }
+  },
+  {
+    "id": "troisieme-raikage",
+    "name": "Troisième Raikage",
+    "image": "characters/troisieme-raikage.svg",
+    "affiliation": "Kumogakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : lance des enfers et résistance exceptionnelle.",
+    "stats": {
+      "strength": 96,
+      "speed": 92,
+      "ninjutsu": 81,
+      "taijutsu": 94,
+      "intelligence": 73,
+      "endurance": 98
+    }
+  },
+  {
+    "id": "darui",
+    "name": "Darui",
+    "image": "characters/darui.svg",
+    "affiliation": "Kumogakure",
+    "version": "Guerre",
+    "evidence": "Ranton, foudre noire et combat contre les frères d’or et d’argent.",
+    "stats": {
+      "strength": 70,
+      "speed": 79,
+      "ninjutsu": 84,
+      "taijutsu": 75,
+      "intelligence": 85,
+      "endurance": 74
+    }
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "image": "characters/c.svg",
+    "affiliation": "Kumogakure",
+    "version": "Sommet des Kage",
+    "evidence": "Détection, genjutsu et ninjutsu médical.",
+    "stats": {
+      "strength": 38,
+      "speed": 59,
+      "ninjutsu": 63,
+      "taijutsu": 44,
+      "intelligence": 81,
+      "endurance": 54
+    }
+  },
+  {
+    "id": "omoi",
+    "name": "Omoi",
+    "image": "characters/omoi.svg",
+    "affiliation": "Kumogakure",
+    "version": "Guerre",
+    "evidence": "Kenjutsu et analyse dans l’escouade d’embuscade.",
+    "stats": {
+      "strength": 54,
+      "speed": 69,
+      "ninjutsu": 64,
+      "taijutsu": 73,
+      "intelligence": 76,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "karui",
+    "name": "Karui",
+    "image": "characters/karui.svg",
+    "affiliation": "Kumogakure",
+    "version": "Shippuden",
+    "evidence": "Kenjutsu et combat rapproché au sein de l’équipe Samui.",
+    "stats": {
+      "strength": 59,
+      "speed": 64,
+      "ninjutsu": 46,
+      "taijutsu": 69,
+      "intelligence": 57,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "samui",
+    "name": "Samui",
+    "image": "characters/samui.svg",
+    "affiliation": "Kumogakure",
+    "version": "Guerre",
+    "evidence": "Combat contre Kinkaku et Ginkaku, maîtrise du sabre.",
+    "stats": {
+      "strength": 52,
+      "speed": 63,
+      "ninjutsu": 52,
+      "taijutsu": 63,
+      "intelligence": 74,
+      "endurance": 54
+    }
+  },
+  {
+    "id": "atsui",
+    "name": "Atsui",
+    "image": "characters/atsui.svg",
+    "affiliation": "Kumogakure",
+    "version": "Guerre",
+    "evidence": "Kenjutsu enflammé contre les frères réanimés.",
+    "stats": {
+      "strength": 55,
+      "speed": 61,
+      "ninjutsu": 64,
+      "taijutsu": 62,
+      "intelligence": 44,
+      "endurance": 55
+    }
+  },
+  {
+    "id": "yugito-nii",
+    "name": "Yugito Nii",
+    "image": "characters/yugito-nii.svg",
+    "affiliation": "Kumogakure",
+    "version": "Transformation de Matatabi",
+    "evidence": "Hidan et Kakuzu : flammes et forme du deux-queues.",
+    "stats": {
+      "strength": 77,
+      "speed": 81,
+      "ninjutsu": 83,
+      "taijutsu": 75,
+      "intelligence": 73,
+      "endurance": 87
+    }
+  },
+  {
+    "id": "kinkaku",
+    "name": "Kinkaku",
+    "image": "characters/kinkaku.svg",
+    "affiliation": "Kumogakure",
+    "version": "Edo Tensei, chakra de Kurama",
+    "evidence": "Guerre : manteau à six queues et outils du Sage.",
+    "stats": {
+      "strength": 88,
+      "speed": 77,
+      "ninjutsu": 84,
+      "taijutsu": 77,
+      "intelligence": 66,
+      "endurance": 91
+    }
+  },
+  {
+    "id": "ginkaku",
+    "name": "Ginkaku",
+    "image": "characters/ginkaku.svg",
+    "affiliation": "Kumogakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : outils de scellement des frères.",
+    "stats": {
+      "strength": 79,
+      "speed": 72,
+      "ninjutsu": 77,
+      "taijutsu": 73,
+      "intelligence": 72,
+      "endurance": 84
+    }
+  },
+  {
+    "id": "mei-terumi",
+    "name": "Mei Terumī",
+    "image": "characters/mei-terumi.svg",
+    "affiliation": "Kirigakure",
+    "version": "Guerre",
+    "evidence": "Yōton, Futton et Suiton contre Sasuke et Madara.",
+    "stats": {
+      "strength": 52,
+      "speed": 71,
+      "ninjutsu": 90,
+      "taijutsu": 55,
+      "intelligence": 84,
+      "endurance": 77
+    }
+  },
+  {
+    "id": "yagura",
+    "name": "Yagura",
+    "image": "characters/yagura.svg",
+    "affiliation": "Kirigakure",
+    "version": "Jinchūriki d’Isobu",
+    "evidence": "Guerre : miroir d’eau et techniques du trois-queues.",
+    "stats": {
+      "strength": 76,
+      "speed": 80,
+      "ninjutsu": 85,
+      "taijutsu": 73,
+      "intelligence": 73,
+      "endurance": 88
+    }
+  },
+  {
+    "id": "zabuza-momochi",
+    "name": "Zabuza Momochi",
+    "image": "characters/zabuza-momochi.svg",
+    "affiliation": "Kirigakure",
+    "version": "épéiste de la brume",
+    "evidence": "Pont Naruto : brume, meurtre silencieux et dragon d’eau.",
+    "stats": {
+      "strength": 78,
+      "speed": 77,
+      "ninjutsu": 78,
+      "taijutsu": 82,
+      "intelligence": 80,
+      "endurance": 71
+    }
+  },
+  {
+    "id": "haku",
+    "name": "Haku",
+    "image": "characters/haku.svg",
+    "affiliation": "Kirigakure",
+    "version": "Miroirs de glace",
+    "evidence": "Pont Naruto : Hyōton et déplacements entre miroirs.",
+    "stats": {
+      "strength": 43,
+      "speed": 87,
+      "ninjutsu": 78,
+      "taijutsu": 63,
+      "intelligence": 80,
+      "endurance": 57
+    }
+  },
+  {
+    "id": "chojuro",
+    "name": "Chōjūrō",
+    "image": "characters/chojuro.svg",
+    "affiliation": "Kirigakure",
+    "version": "Guerre, Hiramekarei",
+    "evidence": "Sommet des Kage : épée libérant et modelant le chakra.",
+    "stats": {
+      "strength": 74,
+      "speed": 67,
+      "ninjutsu": 65,
+      "taijutsu": 77,
+      "intelligence": 66,
+      "endurance": 64
+    }
+  },
+  {
+    "id": "ao",
+    "name": "Ao",
+    "image": "characters/ao.svg",
+    "affiliation": "Kirigakure",
+    "version": "Sommet des Kage",
+    "evidence": "Détection par Byakugan et identification du contrôle mental.",
+    "stats": {
+      "strength": 49,
+      "speed": 62,
+      "ninjutsu": 67,
+      "taijutsu": 55,
+      "intelligence": 85,
+      "endurance": 55
+    }
+  },
+  {
+    "id": "mangetsu-hozuki",
+    "name": "Mangetsu Hōzuki",
+    "image": "characters/mangetsu-hozuki.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : liquéfaction et maîtrise des épées de la brume.",
+    "stats": {
+      "strength": 70,
+      "speed": 77,
+      "ninjutsu": 80,
+      "taijutsu": 79,
+      "intelligence": 74,
+      "endurance": 73
+    }
+  },
+  {
+    "id": "suigetsu-hozuki",
+    "name": "Suigetsu Hōzuki",
+    "image": "characters/suigetsu-hozuki.svg",
+    "affiliation": "Taka",
+    "version": "Shippuden",
+    "evidence": "Liquéfaction, Kubikiribōchō et défense contre Killer B.",
+    "stats": {
+      "strength": 70,
+      "speed": 72,
+      "ninjutsu": 76,
+      "taijutsu": 73,
+      "intelligence": 65,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "jinin-akebino",
+    "name": "Jinin Akebino",
+    "image": "characters/jinin-akebino.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : hache et marteau de Kabutowari.",
+    "stats": {
+      "strength": 76,
+      "speed": 63,
+      "ninjutsu": 51,
+      "taijutsu": 75,
+      "intelligence": 60,
+      "endurance": 67
+    }
+  },
+  {
+    "id": "jinpachi-munashi",
+    "name": "Jinpachi Munashi",
+    "image": "characters/jinpachi-munashi.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : épée explosive Shibuki.",
+    "stats": {
+      "strength": 68,
+      "speed": 62,
+      "ninjutsu": 63,
+      "taijutsu": 74,
+      "intelligence": 56,
+      "endurance": 66
+    }
+  },
+  {
+    "id": "kushimaru-kuriarare",
+    "name": "Kushimaru Kuriarare",
+    "image": "characters/kushimaru-kuriarare.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : couture et pièges avec Nuibari.",
+    "stats": {
+      "strength": 58,
+      "speed": 75,
+      "ninjutsu": 55,
+      "taijutsu": 78,
+      "intelligence": 63,
+      "endurance": 62
+    }
+  },
+  {
+    "id": "ameyuri-ringo",
+    "name": "Ameyuri Ringo",
+    "image": "characters/ameyuri-ringo.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei, anime Shippuden",
+    "evidence": "Guerre : lames de foudre Kiba ; inclusion anime signalée.",
+    "stats": {
+      "strength": 55,
+      "speed": 79,
+      "ninjutsu": 79,
+      "taijutsu": 77,
+      "intelligence": 68,
+      "endurance": 62
+    }
+  },
+  {
+    "id": "fuguki-suikazan",
+    "name": "Fuguki Suikazan",
+    "image": "characters/fuguki-suikazan.svg",
+    "affiliation": "Kirigakure",
+    "version": "épéiste, réanimation",
+    "evidence": "Guerre et passé de Kisame : Samehada et puissance physique.",
+    "stats": {
+      "strength": 79,
+      "speed": 58,
+      "ninjutsu": 65,
+      "taijutsu": 69,
+      "intelligence": 64,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "utakata",
+    "name": "Utakata",
+    "image": "characters/utakata.svg",
+    "affiliation": "Kirigakure",
+    "version": "Jinchūriki de Saiken",
+    "evidence": "Guerre et arc anime : bulles, acide et six-queues.",
+    "stats": {
+      "strength": 56,
+      "speed": 72,
+      "ninjutsu": 84,
+      "taijutsu": 57,
+      "intelligence": 77,
+      "endurance": 86
+    }
+  },
+  {
+    "id": "onoki",
+    "name": "Ōnoki",
+    "image": "characters/onoki.svg",
+    "affiliation": "Iwagakure",
+    "version": "Guerre",
+    "evidence": "Jinton, allègement et soutien aux Cinq Kage ; dos fragile.",
+    "stats": {
+      "strength": 60,
+      "speed": 77,
+      "ninjutsu": 95,
+      "taijutsu": 49,
+      "intelligence": 92,
+      "endurance": 73
+    }
+  },
+  {
+    "id": "mu",
+    "name": "Mū",
+    "image": "characters/mu.svg",
+    "affiliation": "Iwagakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : Jinton, invisibilité et division corporelle.",
+    "stats": {
+      "strength": 58,
+      "speed": 83,
+      "ninjutsu": 94,
+      "taijutsu": 58,
+      "intelligence": 90,
+      "endurance": 77
+    }
+  },
+  {
+    "id": "kurotsuchi",
+    "name": "Kurotsuchi",
+    "image": "characters/kurotsuchi.svg",
+    "affiliation": "Iwagakure",
+    "version": "Guerre",
+    "evidence": "Yōton, chaux et techniques de terre ; pas de version Boruto.",
+    "stats": {
+      "strength": 62,
+      "speed": 70,
+      "ninjutsu": 77,
+      "taijutsu": 65,
+      "intelligence": 74,
+      "endurance": 63
+    }
+  },
+  {
+    "id": "akatsuchi",
+    "name": "Akatsuchi",
+    "image": "characters/akatsuchi.svg",
+    "affiliation": "Iwagakure",
+    "version": "Guerre",
+    "evidence": "Golem de pierre et protection d’Ōnoki.",
+    "stats": {
+      "strength": 83,
+      "speed": 49,
+      "ninjutsu": 70,
+      "taijutsu": 62,
+      "intelligence": 62,
+      "endurance": 76
+    }
+  },
+  {
+    "id": "kitsuchi",
+    "name": "Kitsuchi",
+    "image": "characters/kitsuchi.svg",
+    "affiliation": "Iwagakure",
+    "version": "Guerre",
+    "evidence": "Doton à grande échelle contre les Zetsu et Jūbi.",
+    "stats": {
+      "strength": 83,
+      "speed": 59,
+      "ninjutsu": 86,
+      "taijutsu": 65,
+      "intelligence": 78,
+      "endurance": 80
+    }
+  },
+  {
+    "id": "roshi",
+    "name": "Rōshi",
+    "image": "characters/roshi.svg",
+    "affiliation": "Iwagakure",
+    "version": "Jinchūriki de Son Gokū",
+    "evidence": "Guerre : manteau de lave et quatre-queues.",
+    "stats": {
+      "strength": 80,
+      "speed": 77,
+      "ninjutsu": 85,
+      "taijutsu": 74,
+      "intelligence": 68,
+      "endurance": 88
+    }
+  },
+  {
+    "id": "han",
+    "name": "Han",
+    "image": "characters/han.svg",
+    "affiliation": "Iwagakure",
+    "version": "Jinchūriki de Kokuō",
+    "evidence": "Guerre : propulsion à vapeur et cinq-queues.",
+    "stats": {
+      "strength": 89,
+      "speed": 84,
+      "ninjutsu": 75,
+      "taijutsu": 86,
+      "intelligence": 64,
+      "endurance": 88
+    }
+  },
+  {
+    "id": "gari",
+    "name": "Gari",
+    "image": "characters/gari.svg",
+    "affiliation": "Iwagakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : explosions au contact, Bakuton.",
+    "stats": {
+      "strength": 77,
+      "speed": 67,
+      "ninjutsu": 77,
+      "taijutsu": 72,
+      "intelligence": 58,
+      "endurance": 66
+    }
+  },
+  {
+    "id": "fu",
+    "name": "Fū",
+    "image": "characters/fu.svg",
+    "affiliation": "Takigakure",
+    "version": "Jinchūriki de Chōmei",
+    "evidence": "Guerre : vol, poudre et sept-queues.",
+    "stats": {
+      "strength": 54,
+      "speed": 80,
+      "ninjutsu": 77,
+      "taijutsu": 55,
+      "intelligence": 61,
+      "endurance": 86
+    }
+  },
+  {
+    "id": "hanzo",
+    "name": "Hanzō",
+    "image": "characters/hanzo.svg",
+    "affiliation": "Amegakure",
+    "version": "Chef d’Ame à son apogée",
+    "evidence": "Combat des Sannin et guerre : poison, salamandre et faucille.",
+    "stats": {
+      "strength": 78,
+      "speed": 85,
+      "ninjutsu": 85,
+      "taijutsu": 85,
+      "intelligence": 84,
+      "endurance": 78
+    }
+  },
+  {
+    "id": "mifune",
+    "name": "Mifune",
+    "image": "characters/mifune.svg",
+    "affiliation": "Pays du Fer",
+    "version": "Guerre",
+    "evidence": "Combat contre Hanzō : iaidō et neutralisation des mudrā.",
+    "stats": {
+      "strength": 65,
+      "speed": 86,
+      "ninjutsu": 10,
+      "taijutsu": 89,
+      "intelligence": 87,
+      "endurance": 70
+    }
+  },
+  {
+    "id": "kimimaro",
+    "name": "Kimimaro",
+    "image": "characters/kimimaro.svg",
+    "affiliation": "Otogakure",
+    "version": "Sceau maudit, maladie",
+    "evidence": "Gaara et Lee : Shikotsumyaku et forêt d’os.",
+    "stats": {
+      "strength": 79,
+      "speed": 81,
+      "ninjutsu": 78,
+      "taijutsu": 88,
+      "intelligence": 73,
+      "endurance": 72
+    }
+  },
+  {
+    "id": "jugo",
+    "name": "Jūgo",
+    "image": "characters/jugo.svg",
+    "affiliation": "Taka",
+    "version": "Transformation complète",
+    "evidence": "énergie naturelle, force et réparation corporelle.",
+    "stats": {
+      "strength": 89,
+      "speed": 66,
+      "ninjutsu": 73,
+      "taijutsu": 76,
+      "intelligence": 50,
+      "endurance": 85
+    }
+  },
+  {
+    "id": "karin-uzumaki",
+    "name": "Karin Uzumaki",
+    "image": "characters/karin-uzumaki.svg",
+    "affiliation": "Taka",
+    "version": "Guerre",
+    "evidence": "Perception, soins par morsure et chaînes de chakra.",
+    "stats": {
+      "strength": 31,
+      "speed": 48,
+      "ninjutsu": 65,
+      "taijutsu": 31,
+      "intelligence": 78,
+      "endurance": 85
+    }
+  },
+  {
+    "id": "kabuto-yakushi",
+    "name": "Kabuto Yakushi",
+    "image": "characters/kabuto-yakushi.svg",
+    "affiliation": "Otogakure",
+    "version": "Mode Ermite",
+    "evidence": "Frères Uchiha : modifications corporelles et techniques sonores.",
+    "stats": {
+      "strength": 77,
+      "speed": 87,
+      "ninjutsu": 95,
+      "taijutsu": 79,
+      "intelligence": 96,
+      "endurance": 91
+    }
+  },
+  {
+    "id": "sakon-et-ukon",
+    "name": "Sakon et Ukon",
+    "image": "characters/sakon-et-ukon.svg",
+    "affiliation": "Otogakure",
+    "version": "Sceau maudit niveau 2",
+    "evidence": "Kiba : fusion corporelle ; duo inséparable, une seule entrée.",
+    "stats": {
+      "strength": 68,
+      "speed": 65,
+      "ninjutsu": 71,
+      "taijutsu": 74,
+      "intelligence": 60,
+      "endurance": 67
+    }
+  },
+  {
+    "id": "kidomaru",
+    "name": "Kidōmaru",
+    "image": "characters/kidomaru.svg",
+    "affiliation": "Otogakure",
+    "version": "Sceau maudit niveau 2",
+    "evidence": "Neji : fils, toile et tir à l’arc tactique.",
+    "stats": {
+      "strength": 49,
+      "speed": 68,
+      "ninjutsu": 77,
+      "taijutsu": 54,
+      "intelligence": 83,
+      "endurance": 59
+    }
+  },
+  {
+    "id": "tayuya",
+    "name": "Tayuya",
+    "image": "characters/tayuya.svg",
+    "affiliation": "Otogakure",
+    "version": "Sceau maudit niveau 2",
+    "evidence": "Shikamaru : invocations et genjutsu sonore, évalués séparément.",
+    "stats": {
+      "strength": 34,
+      "speed": 53,
+      "ninjutsu": 67,
+      "taijutsu": 31,
+      "intelligence": 72,
+      "endurance": 56
+    }
+  },
+  {
+    "id": "jirobo",
+    "name": "Jirōbō",
+    "image": "characters/jirobo.svg",
+    "affiliation": "Otogakure",
+    "version": "Sceau maudit niveau 2",
+    "evidence": "Chōji : Doton, absorption et force brute.",
+    "stats": {
+      "strength": 85,
+      "speed": 39,
+      "ninjutsu": 64,
+      "taijutsu": 66,
+      "intelligence": 42,
+      "endurance": 72
+    }
+  },
+  {
+    "id": "dosu-kinuta",
+    "name": "Dosu Kinuta",
+    "image": "characters/dosu-kinuta.svg",
+    "affiliation": "Otogakure",
+    "version": "Examen Chūnin",
+    "evidence": "Vibrations sonores dirigées par son amplificateur.",
+    "stats": {
+      "strength": 43,
+      "speed": 52,
+      "ninjutsu": 61,
+      "taijutsu": 48,
+      "intelligence": 74,
+      "endurance": 45
+    }
+  },
+  {
+    "id": "zaku-abumi",
+    "name": "Zaku Abumi",
+    "image": "characters/zaku-abumi.svg",
+    "affiliation": "Otogakure",
+    "version": "Examen Chūnin",
+    "evidence": "Canons d’air implantés dans les bras.",
+    "stats": {
+      "strength": 44,
+      "speed": 49,
+      "ninjutsu": 57,
+      "taijutsu": 43,
+      "intelligence": 47,
+      "endurance": 43
+    }
+  },
+  {
+    "id": "kin-tsuchi",
+    "name": "Kin Tsuchi",
+    "image": "characters/kin-tsuchi.svg",
+    "affiliation": "Otogakure",
+    "version": "Examen Chūnin",
+    "evidence": "Clochettes, aiguilles et illusions auditives.",
+    "stats": {
+      "strength": 26,
+      "speed": 42,
+      "ninjutsu": 36,
+      "taijutsu": 34,
+      "intelligence": 56,
+      "endurance": 35
+    }
+  },
+  {
+    "id": "mizuki",
+    "name": "Mizuki",
+    "image": "characters/mizuki.svg",
+    "affiliation": "Konoha",
+    "version": "Début de Naruto",
+    "evidence": "Affrontement avec Iruka et Naruto, armes et ninjutsu élémentaire.",
+    "stats": {
+      "strength": 42,
+      "speed": 46,
+      "ninjutsu": 42,
+      "taijutsu": 44,
+      "intelligence": 51,
+      "endurance": 43
+    }
+  },
+  {
+    "id": "hayate-gekko",
+    "name": "Hayate Gekkō",
+    "image": "characters/hayate-gekko.svg",
+    "affiliation": "Konoha",
+    "version": "Examinateur Chūnin",
+    "evidence": "Baki : danse du croissant de lune, santé fragile.",
+    "stats": {
+      "strength": 48,
+      "speed": 68,
+      "ninjutsu": 51,
+      "taijutsu": 72,
+      "intelligence": 70,
+      "endurance": 40
+    }
+  },
+  {
+    "id": "genma-shiranui",
+    "name": "Genma Shiranui",
+    "image": "characters/genma-shiranui.svg",
+    "affiliation": "Konoha",
+    "version": "Jōnin Shippuden",
+    "evidence": "Escorte et combats ; téléportation en équipe, pas de Hiraishin individuel.",
+    "stats": {
+      "strength": 57,
+      "speed": 67,
+      "ninjutsu": 62,
+      "taijutsu": 70,
+      "intelligence": 77,
+      "endurance": 59
+    }
+  },
+  {
+    "id": "raido-namiashi",
+    "name": "Raidō Namiashi",
+    "image": "characters/raido-namiashi.svg",
+    "affiliation": "Konoha",
+    "version": "Jōnin Shippuden",
+    "evidence": "Combat contre le Quartet du Son avec Genma.",
+    "stats": {
+      "strength": 62,
+      "speed": 63,
+      "ninjutsu": 57,
+      "taijutsu": 68,
+      "intelligence": 69,
+      "endurance": 61
+    }
+  },
+  {
+    "id": "izumo-kamizuki",
+    "name": "Izumo Kamizuki",
+    "image": "characters/izumo-kamizuki.svg",
+    "affiliation": "Konoha",
+    "version": "Combat contre Kakuzu",
+    "evidence": "Sirop d’eau et coordination avec Kotetsu.",
+    "stats": {
+      "strength": 46,
+      "speed": 54,
+      "ninjutsu": 60,
+      "taijutsu": 50,
+      "intelligence": 70,
+      "endurance": 51
+    }
+  },
+  {
+    "id": "kotetsu-hagane",
+    "name": "Kotetsu Hagane",
+    "image": "characters/kotetsu-hagane.svg",
+    "affiliation": "Konoha",
+    "version": "Combat contre Kakuzu",
+    "evidence": "Arme lourde et attaques coordonnées avec Izumo.",
+    "stats": {
+      "strength": 55,
+      "speed": 54,
+      "ninjutsu": 48,
+      "taijutsu": 57,
+      "intelligence": 66,
+      "endurance": 53
+    }
+  },
+  {
+    "id": "shikaku-nara",
+    "name": "Shikaku Nara",
+    "image": "characters/shikaku-nara.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Stratégie de l’Alliance et manipulation des ombres.",
+    "stats": {
+      "strength": 37,
+      "speed": 50,
+      "ninjutsu": 74,
+      "taijutsu": 42,
+      "intelligence": 97,
+      "endurance": 51
+    }
+  },
+  {
+    "id": "inoichi-yamanaka",
+    "name": "Inoichi Yamanaka",
+    "image": "characters/inoichi-yamanaka.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Communication mentale à l’échelle de l’Alliance.",
+    "stats": {
+      "strength": 34,
+      "speed": 47,
+      "ninjutsu": 72,
+      "taijutsu": 37,
+      "intelligence": 89,
+      "endurance": 55
+    }
+  },
+  {
+    "id": "choza-akimichi",
+    "name": "Chōza Akimichi",
+    "image": "characters/choza-akimichi.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Gigantisme contre Pain et la statue du Gedō.",
+    "stats": {
+      "strength": 88,
+      "speed": 48,
+      "ninjutsu": 71,
+      "taijutsu": 70,
+      "intelligence": 65,
+      "endurance": 79
+    }
+  },
+  {
+    "id": "hiashi-hyuga",
+    "name": "Hiashi Hyūga",
+    "image": "characters/hiashi-hyuga.svg",
+    "affiliation": "Konoha",
+    "version": "Guerre",
+    "evidence": "Rotation et paumes du Hakke contre les attaques de Jūbi.",
+    "stats": {
+      "strength": 65,
+      "speed": 75,
+      "ninjutsu": 65,
+      "taijutsu": 88,
+      "intelligence": 79,
+      "endurance": 69
+    }
+  },
+  {
+    "id": "shibi-aburame",
+    "name": "Shibi Aburame",
+    "image": "characters/shibi-aburame.svg",
+    "affiliation": "Konoha",
+    "version": "Assaut de Pain",
+    "evidence": "Insectes et neutralisation des invocations avec son clan.",
+    "stats": {
+      "strength": 41,
+      "speed": 52,
+      "ninjutsu": 76,
+      "taijutsu": 43,
+      "intelligence": 81,
+      "endurance": 61
+    }
+  },
+  {
+    "id": "torune-aburame",
+    "name": "Torune Aburame",
+    "image": "characters/torune-aburame.svg",
+    "affiliation": "Racine",
+    "version": "Garde de Danzō",
+    "evidence": "Obito : insectes venimeux au contact.",
+    "stats": {
+      "strength": 44,
+      "speed": 64,
+      "ninjutsu": 77,
+      "taijutsu": 54,
+      "intelligence": 76,
+      "endurance": 57
+    }
+  },
+  {
+    "id": "fu-yamanaka",
+    "name": "Fū Yamanaka",
+    "image": "characters/fu-yamanaka.svg",
+    "affiliation": "Racine",
+    "version": "Garde de Danzō",
+    "evidence": "Transfert mental, piège de la marionnette et perception.",
+    "stats": {
+      "strength": 45,
+      "speed": 65,
+      "ninjutsu": 71,
+      "taijutsu": 57,
+      "intelligence": 82,
+      "endurance": 54
+    }
+  },
+  {
+    "id": "duy-le-pere-de-guy",
+    "name": "Duy, le père de Guy",
+    "image": "characters/duy-le-pere-de-guy.svg",
+    "affiliation": "Konoha",
+    "version": "Huitième Porte",
+    "evidence": "Sacrifice contre les Sept Épéistes ; données limitées et coût fatal.",
+    "stats": {
+      "strength": 92,
+      "speed": 91,
+      "ninjutsu": 8,
+      "taijutsu": 94,
+      "intelligence": 48,
+      "endurance": 65
+    }
+  },
+  {
+    "id": "dan-kato",
+    "name": "Dan Katō",
+    "image": "characters/dan-kato.svg",
+    "affiliation": "Konoha",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : technique de transformation spirituelle.",
+    "stats": {
+      "strength": 48,
+      "speed": 64,
+      "ninjutsu": 81,
+      "taijutsu": 54,
+      "intelligence": 80,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "hizashi-hyuga",
+    "name": "Hizashi Hyūga",
+    "image": "characters/hizashi-hyuga.svg",
+    "affiliation": "Konoha",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : Jūken et Byakugan contre l’Alliance.",
+    "stats": {
+      "strength": 62,
+      "speed": 71,
+      "ninjutsu": 61,
+      "taijutsu": 84,
+      "intelligence": 74,
+      "endurance": 66
+    }
+  },
+  {
+    "id": "chukichi",
+    "name": "Chūkichi",
+    "image": "characters/chukichi.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Escouade d’embuscade : détection et dissimulation dans la brume.",
+    "stats": {
+      "strength": 42,
+      "speed": 58,
+      "ninjutsu": 65,
+      "taijutsu": 46,
+      "intelligence": 76,
+      "endurance": 58
+    }
+  },
+  {
+    "id": "toroi",
+    "name": "Toroi",
+    "image": "characters/toroi.svg",
+    "affiliation": "Kumogakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : magnétisation des armes et des cibles.",
+    "stats": {
+      "strength": 59,
+      "speed": 61,
+      "ninjutsu": 73,
+      "taijutsu": 58,
+      "intelligence": 68,
+      "endurance": 63
+    }
+  },
+  {
+    "id": "gengetsu-hozuki",
+    "name": "Gengetsu Hōzuki",
+    "image": "characters/gengetsu-hozuki.svg",
+    "affiliation": "Kirigakure",
+    "version": "Edo Tensei",
+    "evidence": "Guerre : mirages du coquillage et clone explosif à vapeur.",
+    "stats": {
+      "strength": 65,
+      "speed": 78,
+      "ninjutsu": 91,
+      "taijutsu": 65,
+      "intelligence": 90,
+      "endurance": 82
+    }
+  },
+  {
+    "id": "kaguya-otsutsuki",
+    "name": "Kaguya Ōtsutsuki",
+    "image": "characters/kaguya-otsutsuki.svg",
+    "affiliation": "Sans village",
+    "version": "Combat final Shippuden",
+    "evidence": "Dimensions, absorption de chakra et os désintégrateurs.",
+    "stats": {
+      "strength": 99,
+      "speed": 96,
+      "ninjutsu": 100,
+      "taijutsu": 83,
+      "intelligence": 68,
+      "endurance": 100
+    }
+  },
+  {
+    "id": "hagoromo-otsutsuki",
+    "name": "Hagoromo Ōtsutsuki",
+    "image": "characters/hagoromo-otsutsuki.svg",
+    "affiliation": "Sans village",
+    "version": "Passé montré dans Shippuden",
+    "evidence": "Combat contre Jūbi et création des bijū ; démonstrations en partie narratives.",
+    "stats": {
+      "strength": 89,
+      "speed": 92,
+      "ninjutsu": 100,
+      "taijutsu": 83,
+      "intelligence": 98,
+      "endurance": 100
+    }
+  }
+]

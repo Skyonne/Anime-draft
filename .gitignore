@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.runtime/
+*.local
+test-results/
+__pycache__/
+*.pyc
+src/data/portraits.json.tmp
+public/private-portraits/

@@ -1,0 +1,8 @@
+{
+  "provider": "Tenrai",
+  "documentation": "https://tenrai.org/docs",
+  "endpoints": [
+    "https://api.tenrai.org/v1/anime/1735/characters",
+    "https://api.tenrai.org/v1/anime/20/characters"
+  ]
+}
